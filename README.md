@@ -13,7 +13,7 @@ Este é um sistema escolar simples desenvolvido em Python usando Flask e MySQL. 
 1. Clone este repositório.
 2. Crie um ambiente virtual Python.
 3. Instale as dependências do Python: `pip install Flask` e `pip install mysql-connector-python`.
-4. Configure o banco de dados MySQL no arquivo `config.py`.
+4. Configure o banco de dados MySQL no arquivo `app.py`.
 5. Execute o arquivo `app.py` para iniciar o servidor Flask.
 
 ## Estrutura do Banco de Dados
